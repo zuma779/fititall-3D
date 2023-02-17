@@ -1,0 +1,17 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+Desktop.ini
+
+# swp and Icon files
+*.swp
+Icon?
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Thumbnail cache files
+._*
+ehthumbs.db
+Thumbs.db
