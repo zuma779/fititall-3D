@@ -6,4 +6,4 @@
 ## 不断更新中 [fititall Cube300 BOM](https://docs.qq.com/sheet/DZGFLVmVhellxeEh6?tab=BB08J2)
 
 
-![输入图片说明](images/Cover.png)
+![输入图片说明](/Cube300/images/Cover.png)
