@@ -1,127 +1,153 @@
-                     木兰宽松许可证, 第2版
+木兰开放作品许可协议 署名-相同方式共享，第1版
 
-   木兰宽松许可证， 第2版 
-   2020年1月 http://license.coscl.org.cn/MulanPSL2
+2022年12月 
 
+http://license.coscl.org.cn/MulanOWLBYSAv1
 
-   您对“软件”的复制、使用、修改及分发受木兰宽松许可证，第2版（“本许可证”）的如下条款的约束：
+“您”对“本作品”的复制、使用、修改及“传播”受木兰开放作品许可协议 署名-相同方式共享，第1版（以下简称“本许可协议”）的如下条款的约束：
 
-   0. 定义
+0. 定义
 
-      “软件”是指由“贡献”构成的许可在“本许可证”下的程序和相关文档的集合。
+“本作品”是指依据“本许可协议”提供许可的受版权法保护的智力成果，包括但不限于文字作品、音乐作品、美术作品、建筑作品、摄影作品、视听作品、图形作品、模型作品等。
 
-      “贡献”是指由任一“贡献者”许可在“本许可证”下的受版权法保护的作品。
+“演绎作品”是指基于“本作品”创作的作品，包括但不限于对“本作品”全部或部分进行改编、翻译、注释、编排等。
 
-      “贡献者”是指将受版权法保护的作品许可在“本许可证”下的自然人或“法人实体”。
+“贡献者”是指“本许可协议”下“本作品”相关权利的许可人，包括版权权利人和其授权的自然人或“组织”。
 
-      “法人实体”是指提交贡献的机构及其“关联实体”。
+“您”是指“本许可协议”下“本作品”相关权利的被许可人，是行使“本许可协议”授予的权利的自然人或“组织”。“您的”具有对应含义。
 
-      “关联实体”是指，对“本许可证”下的行为方而言，控制、受控制或与其共同受控制的机构，此处的控制是指有受控方或共同受控方至少50%直接或间接的投票权、资金或其他有价证券。
+“组织”是指法人、非法人组织及其关联实体。此处的“关联实体”是指对“本许可协议”下的行为方而言，控制、受控制或与其共同受控制的机构。此处的“控制”是指拥有受控方或共同受控方至少50%直接或间接的投票权、资金或其他有价证券。
 
-   1. 授予版权许可
+“传播”是指通过任何媒介向他人提供作品的行为，包括但不限于发行、出租、展览、表演、放映、通过信息网络提供或以其他方式提供作品。
 
-      每个“贡献者”根据“本许可证”授予您永久性的、全球性的、免费的、非独占的、不可撤销的版权许可，您可以复制、使用、修改、分发其“贡献”，不论修改与否。
+“兼容的许可协议”是指在http://license.coscl.org.cn/faq列出且经木兰社区官方认可为与“本许可协议”兼容的许可协议。
 
-   2. 授予专利许可
+“有效技术措施”是指根据适用法域的法律，版权权利人为避免作品未经授权使用而采取的禁止使用者规避的技术措施。
 
-      每个“贡献者”根据“本许可证”授予您永久性的、全球性的、免费的、非独占的、不可撤销的（根据本条规定撤销除外）专利许可，供您制造、委托制造、使用、许诺销售、销售、进口其“贡献”或以其他方式转移其“贡献”。前述专利许可仅限于“贡献者”现在或将来拥有或控制的其“贡献”本身或其“贡献”与许可“贡献”时的“软件”结合而将必然会侵犯的专利权利要求，不包括对“贡献”的修改或包含“贡献”的其他结合。如果您或您的“关联实体”直接或间接地，就“软件”或其中的“贡献”对任何人发起专利侵权诉讼（包括反诉或交叉诉讼）或其他专利维权行动，指控其侵犯专利权，则“本许可证”授予您对“软件”的专利许可自您提起诉讼或发起维权行动之日终止。
+1. 授予版权许可
 
-   3. 无商标许可
+在“您”遵守“本许可协议”的前提下，每个“贡献者”根据“本许可协议”授予“您”永久性的、全球性的、免费的、非独占的、不可撤销的版权许可，供“您”以复制、修改、“传播”等方式利用“本作品”。
 
-      “本许可证”不提供对“贡献者”的商品名称、商标、服务标志或产品名称的商标许可，但您为满足第4条规定的声明义务而必须使用除外。
+2. 无其他许可
 
-   4. 分发限制
+除“本许可协议”明确规定外，“本许可协议”不提供包括商标、专利在内的任何其他许可。
 
-      您可以在任何媒介中将“软件”以源程序形式或可执行形式重新分发，不论修改与否，但您必须向接收者提供“本许可证”的副本，并保留“软件”中的版权、商标、专利及免责声明。
+3. “传播”条件
 
-   5. 免责声明与责任限制
+“您”可以任何方式“传播”“本作品”或“您的”“演绎作品”，但应当满足以下条件：
 
-      “软件”及其中的“贡献”在提供时不带任何明示或默示的担保。在任何情况下，“贡献者”或版权所有者不对任何人因使用“软件”或其中的“贡献”而引发的任何直接或间接损失承担责任，不论因何种原因导致或者基于何种法律理论，即使其曾被建议有此种损失的可能性。 
+（1）“您”必须随附“本作品”或“您的”“演绎作品”提供“本许可协议”的完整文本或网址；
 
-   6. 语言
-      “本许可证”以中英文双语表述，中英文版本具有同等法律效力。如果中英文版本存在任何冲突不一致，以中文版为准。
+（2）“您”必须保留“本作品”或“您”所使用部分的来源网址、“贡献者”署名和/或版权声明（“贡献者”要求移除的情形除外）、修改声明、专利声明、商标声明及免责声明；
 
-   条款结束 
+（3）若“您”基于“本作品”创作“演绎作品”并“传播”的，“您”必须以合理方式声明“本作品”已被修改；“您”还必须将“您的”“演绎作品”许可在“本许可协议”或“兼容的许可协议”下，并提供所适用的许可协议文本或网址；
 
-   如何将木兰宽松许可证，第2版，应用到您的软件
-   
-   如果您希望将木兰宽松许可证，第2版，应用到您的新软件，为了方便接收者查阅，建议您完成如下三步：
+（4）“您”不得对“本作品”或“演绎作品”施加任何的约束或采用任何“有效技术措施”，以限制接收“本作品”或“演绎作品”的其他人在对应作品所适用的“本许可协议”或“兼容的许可协议”下所享有的权利；若“您”接收的“本作品”被施加前述约束或“有效技术措施”，“您”有权进行移除或规避。
 
-      1， 请您补充如下声明中的空白，包括软件名、软件的首次发表年份以及您作为版权人的名字；
+“您”可以以合理方式标注“您”所使用的“本作品”或其部分的标题、版本等信息；若“您”使用的“本作品”或其部分或“您的”“演绎作品”是通过信息网络“传播”，本条第（1）-（3）项中所述文本或网址可以使用超链接。
 
-      2， 请您在软件包的一级目录下创建以“LICENSE”为名的文件，将整个许可证文本放入该文件中；
+4. 违约与终止
 
-      3， 请将如下声明文本放入每个源文件的头部注释中。
+4.1 若“您”违反“本许可协议”，任何“贡献者”有权书面通知“您”终止其根据“本许可协议”授予“您”的许可。该“贡献者”根据“本许可协议”授予“您”的许可自“您”接到其终止通知之日起终止。仅在如下三种情形下，即使“您”收到“贡献者”的通知也并不终止其授予“您”的许可：
 
-   Copyright (c) [Year] [name of copyright holder]
-   [Software Name] is licensed under Mulan PSL v2.
-   You can use this software according to the terms and conditions of the Mulan PSL v2. 
-   You may obtain a copy of Mulan PSL v2 at:
-            http://license.coscl.org.cn/MulanPSL2 
-   THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.  
-   See the Mulan PSL v2 for more details.  
+（1）“您”在接到该终止通知之前已停止所有违反行为；
 
+（2）“您”是首次收到该“贡献者”根据“本许可协议”发出的书面终止通知，并且“您”在收到该通知后30天内已停止所有违反行为；
 
-                     Mulan Permissive Software License，Version 2
+（3）“贡献者”明示恢复授予“您”的许可。
 
-   Mulan Permissive Software License，Version 2 (Mulan PSL v2)
-   January 2020 http://license.coscl.org.cn/MulanPSL2
+4.2 即使“您”在“本许可协议”下被授予的许可终止，只要从“您”处直接或间接接收“本作品”的其他人遵守“本许可协议”的规定，他们根据“本许可协议”享有的权利不受影响。
 
-   Your reproduction, use, modification and distribution of the Software shall be subject to Mulan PSL v2 (this License) with the following terms and conditions: 
-   
-   0. Definition
-   
-      Software means the program and related documents which are licensed under this License and comprise all Contribution(s). 
-   
-      Contribution means the copyrightable work licensed by a particular Contributor under this License.
-   
-      Contributor means the Individual or Legal Entity who licenses its copyrightable work under this License.
-   
-      Legal Entity means the entity making a Contribution and all its Affiliates.
-   
-      Affiliates means entities that control, are controlled by, or are under common control with the acting entity under this License, ‘control’ means direct or indirect ownership of at least fifty percent (50%) of the voting power, capital or other securities of controlled or commonly controlled entity.
+4.3 “本许可协议”第0、4、5、6条，不因“本许可协议”终止而失效。
 
-   1. Grant of Copyright License
+5. 免责声明与责任限制
 
-      Subject to the terms and conditions of this License, each Contributor hereby grants to you a perpetual, worldwide, royalty-free, non-exclusive, irrevocable copyright license to reproduce, use, modify, or distribute its Contribution, with modification or not.
+“本作品”在提供时不带有任何明示或默示的担保。在任何情况下，“贡献者”不对任何人因使用“本作品”而引发的任何直接或间接损失承担任何责任，不论该等损失因何种原因导致或者基于何种法律理论，即使其曾被告知有该等损失的可能性。
 
-   2. Grant of Patent License 
+6. 语言
 
-      Subject to the terms and conditions of this License, each Contributor hereby grants to you a perpetual, worldwide, royalty-free, non-exclusive, irrevocable (except for revocation under this Section) patent license to make, have made, use, offer for sale, sell, import or otherwise transfer its Contribution, where such patent license is only limited to the patent claims owned or controlled by such Contributor now or in future which will be necessarily infringed by its Contribution alone, or by combination of the Contribution with the Software to which the Contribution was contributed. The patent license shall not apply to any modification of the Contribution, and any other combination which includes the Contribution. If you or your Affiliates directly or indirectly institute patent litigation (including a cross claim or counterclaim in a litigation) or other patent enforcement activities against any individual or entity by alleging that the Software or any Contribution in it infringes patents, then any patent license granted to you under this License for the Software shall terminate as of the date such litigation or activity is filed or taken.
+“本许可协议”以中英文双语表述，中英文版本具有同等法律效力。若中英文版本存在任何不一致，以中文版为准。
 
-   3. No Trademark License
+ 
 
-      No trademark license is granted to use the trade names, trademarks, service marks, or product names of Contributor, except as required to fulfill notice requirements in Section 4.
+条款结束
 
-   4. Distribution Restriction
+ 
 
-      You may distribute the Software in any medium with or without modification, whether in source or executable forms, provided that you provide recipients with a copy of this License and retain copyright, patent, trademark and disclaimer statements in the Software.
-
-   5. Disclaimer of Warranty and Limitation of Liability
-
-      THE SOFTWARE AND CONTRIBUTION IN IT ARE PROVIDED WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. IN NO EVENT SHALL ANY CONTRIBUTOR OR COPYRIGHT HOLDER BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO ANY DIRECT, OR INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OR INABILITY TO USE THE SOFTWARE OR THE CONTRIBUTION IN IT, NO MATTER HOW IT’S CAUSED OR BASED ON WHICH LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-   6. Language
-
-      THIS LICENSE IS WRITTEN IN BOTH CHINESE AND ENGLISH, AND THE CHINESE VERSION AND ENGLISH VERSION SHALL HAVE THE SAME LEGAL EFFECT. IN THE CASE OF DIVERGENCE BETWEEN THE CHINESE AND ENGLISH VERSIONS, THE CHINESE VERSION SHALL PREVAIL.
-
-   END OF THE TERMS AND CONDITIONS
-
-   How to Apply the Mulan Permissive Software License，Version 2 (Mulan PSL v2) to Your Software
-
-      To apply the Mulan PSL v2 to your work, for easy identification by recipients, you are suggested to complete following three steps:
-
-      i Fill in the blanks in following statement, including insert your software name, the year of the first publication of your software, and your name identified as the copyright owner; 
-
-      ii Create a file named “LICENSE” which contains the whole context of this License in the first directory of your software package;
-
-      iii Attach the statement to the appropriate annotated syntax at the beginning of each source file.
+Mulan Open Works License Attribution-ShareAlike, Version 1
 
 
-   Copyright (c) [Year] [name of copyright holder]
-   [Software Name] is licensed under Mulan PSL v2.
-   You can use this software according to the terms and conditions of the Mulan PSL v2. 
-   You may obtain a copy of Mulan PSL v2 at:
-               http://license.coscl.org.cn/MulanPSL2 
-   THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.  
-   See the Mulan PSL v2 for more details.  
+Mulan Open Works License Attribution-ShareAlike, Version 1
+
+December 2022 http://license.coscl.org.cn/MulanOWLBYSAv1
+
+Your reproduction, use, modification and Dissemination of This Work shall be subject to Mulan Open Works License Attribution-ShareAlike, Version 1 (This License) with following terms and conditions:
+
+ 
+
+0. Definition
+
+This Work means intellectual achievement protected by copyright law that is licensed under This License, including but not limited to a written work, a musical work, a fine art work, an architecture work, a photographic work, an audiovisual work, a graphic work, and a model work.
+
+Adapted Work means a work that is created based on This Work, including but not limited to modification, translation, annotation, or arrangement of This Work in whole or in part.
+
+Contributor means the licensor(s) of the rights related to This Work under This License, including the copyright holder(s) and its authorized individual(s) or Organization(s).
+
+You means the licensee of the rights related to This Work under This License, who is an individual or Organization exercising the rights granted under This License. Your has a corresponding meaning.
+
+Organization means any legal entity(ies), unincorporated organization(s), and their affiliate(s). Aforesaid “affiliate” means any entity that controls, is controlled by, or is under common control with any party under This License. Aforesaid “control” means direct or indirect ownership of at least fifty percent (50%) of the voting power, capital or other securities of controlled or commonly controlled entity.
+
+Disseminate (or Dissemination) means the act of making works available to others through any medium, including but not limited to distribution, lease, exhibition, performance, projection, providing works through information networks or by any other means providing works.
+
+Compatible License means any license that is listed on http://license.coscl.org.cn/faq and officially approved by Mulan Community as compatible with This License.
+
+Effective Technical Measures means those technical measures taken by copyright holders to prevent unauthorized use of work, from which circumvention by users are prohibited under laws of applicable jurisdiction.
+
+1. Grant of Copyright License
+
+Subject to Your compliance with the terms and conditions of This License, each Contributor hereby grants You, according to This License, a perpetual, worldwide, royalty-free, non-exclusive, irrevocable copyright license to copy, modify, Disseminate, and in other manner use This Work.
+
+2. No Other License
+
+Except for those as expressly stated in This License, This License does not provide any other licenses, including trademark license or patent license.
+
+3. Dissemination Conditions
+
+You may Disseminate This Work or Your Adapted Work in any manner, provided that the following conditions are met:
+
+(1) You must provide the text or URI of This License with This Work or Your Adapted Work;
+
+(2) You must retain any URI, Contributor’s attribution and/or copyright statements (unless the Contributor requires removal), modification statements, patent statements, trademark statements, and disclaimer statements of This Work or parts thereof that You use;
+
+(3) If You create an Adapted Work based on This Work and Disseminate it, You must indicate in a reasonable manner that You modified This Work; You must license Your Adapted Work under This License or any Compatible License and provide text or URI of the applied license;
+
+(4) You must not exert any restrictions on or apply any Effective Technical Measures to This Work or the Adapted Work to restrict any others who receive This Work or Adapted Work from exercising the rights granted under This License or any Compatible License; if This Work You received had been exerted foregoing restrictions or applied Effective Technical Measures, You are entitled to remove or circumvent them.
+
+You may indicate in a reasonable manner the information such as the title or version of This Work or parts thereof that You use; if This Work or parts thereof that You use or Your Adapted Work is Disseminated through information networks, You may use hyperlinks for provision of the foregoing texts or URIs in (1)-(3) of Section 4.
+
+4. Breach and Termination
+
+4.1 If You breached This License, any Contributor has the right to notify You in writing to terminate its license granted to You under This License. The license granted to You by such Contributor terminates upon Your receipt of such notice of termination. Notwithstanding the foregoing, Your license will not be terminated even if You received a notice of termination from Contributor, under three circumstances as set forth below:
+
+(1) You have cured all the breaches prior to receipt of such notice of termination; or,
+
+(2) it’s Your first time to receive a notice of termination from such Contributor pursuant to This License, and You have cured all the breaches within 30 days of receipt of such notice; or,
+
+(3) Contributor has expressly reinstated the license granted to You.
+
+4.2 Termination of Your license under This License shall not affect any rights under This License granted to any others who directly or indirectly receive This Work from You, provided that they comply with the terms and conditions of This License.
+
+4.3 Sections 0, 4, 5, and 6 survive termination of This License.
+
+5. Disclaimer of Warranty and Limitation of Liability
+
+THIS WORK IS PROVIDED WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. IN NO EVENT SHALL ANY CONTRIBUTOR BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING BUT NOT LIMITED TO ANY DIRECT OR INDIRECT DAMAGES ARISING FROM YOUR USE OR INABILITY TO USE THIS WORK, NO MATTER HOW IT IS CAUSED OR BASED ON WHICH LEGAL THEORY, EVEN IF SUCH CONTRIBUTOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. Language
+
+THIS LICENSE IS WRITTEN IN BOTH CHINESE AND ENGLISH, AND THE CHINESE VERSION AND ENGLISH VERSION SHALL HAVE THE SAME LEGAL EFFECT. IN CASE OF DIVERGENCE BETWEEN THE CHINESE AND ENGLISH VERSIONS, THE CHINESE VERSION SHALL PREVAIL.
+
+ 
+
+END OF THE TERMS AND CONDITIONS
+
