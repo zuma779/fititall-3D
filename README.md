@@ -2,7 +2,7 @@
 
 ![输入图片说明](/Cube300/images/Cover.png)
 
-## 不断更新中 [fititall Cube300 BOM](https://docs.qq.com/sheet/DZGFLVmVhellxeEh6?tab=BB08J2)
+## [制作清单与安装指导 BOM&Assembly guide](https://www.yuque.com/haibiandelaojidadianhua/prg0k5/idmribqft79v46gv?singleDoc)
 
 #### 介绍
 Cube300是一台搭载了CrossingXZ^TM^运动结构开源3D打印机，由斐傲三维（fititall3D）开发并发布。它完全由工业设计师的主导并推进这一项目，力求最大限度达到造型上的美观。但这不意味着Cube300在性能上毫无追求，它能确保在15,000mm/s^2^的加速度下以300mm/s的打印速度工作。如果您仔细观察打印机每一个部件就能发现，它们在性能与造型之间找到了平衡点。
@@ -14,7 +14,7 @@ Cube300是一台搭载了CrossingXZ^TM^运动结构开源3D打印机，由斐傲
 欢迎您的加入。
 
 tu
-20230310
+20230502
 
 
 
