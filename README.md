@@ -1,4 +1,4 @@
-# fititall3D
+# fititall-3D
 
 ![输入图片说明](/Cube300/images/Cover.png)
 
